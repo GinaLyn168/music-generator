@@ -1,2 +1,3 @@
 # music-generator
-AI stuff. It's cool check it out
+AI stuff.
+Hi this WIP.
