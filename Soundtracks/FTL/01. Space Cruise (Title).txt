@@ -1,0 +1,1 @@
+Software synthesizers and musical emulators. Largely dynamic, transforms from a slow methodic tune, to segments of music from several battle tracks in the game.

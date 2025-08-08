@@ -1,0 +1,1 @@
+Software synthesizers and musical emulators. Focused on very high pitch keys, as well as seperation between quicker and slower sequences of notes.
